@@ -110,10 +110,17 @@ padding-right: 100px;
     font-weight: bold;
     padding-bottom: 40px;
 }
-.final{
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 40px;
 
 }
+
+
    .boxing{
+    font-size:20x;
     display: flex;
     justify-content: center;
     gap:80px;
